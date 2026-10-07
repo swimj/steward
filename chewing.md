@@ -24,3 +24,19 @@ Open questions:
 - Can the product welcome successful departures while sustaining a business around people who continue to benefit?
 
 These are unresolved questions and hypotheses, not selected features or experiments.
+
+## Reflection as teaching, with content improvement behind the scenes
+
+Justin is increasingly considering removing reflection-based study-content changes as a learner-facing interface. Reflection could separate into two responsibilities: actual lessons for the learner, framed pedagogically, and backend work that makes exercises useful and helps content converge toward stable high quality.
+
+The learner-facing experience would focus on understanding language: useful explanations, connections, and lessons from study. The concerns of authoring exercises, evaluating repair proposals, and managing teaching content would be handled behind the scenes. Learners mainly want to exercise their language, and making them participate in teaching internals may not be an enticing product experience.
+
+This connects to a growing feeling that learner-specific content is too central, especially for review. Custom content surfaces bring sharing and ownership confusion that may distract from the product's purpose. Personal taste or pinning might still be valuable later; the thought is about how much content management should be central to the experience, not abandoning responsiveness to a learner's interests and needs.
+
+Justin is increasingly ready to trust model quality. Human review of individual content proposals is not clearly a better use of time at this stage than continuing to study while the system improves the content. That is a growing leaning, not a settled conclusion that autonomous improvement will converge or a commitment to remove existing interfaces now.
+
+Open questions:
+- What should reflection feel like when its purpose is entirely pedagogical?
+- How can learners express confusion, disagreement, or taste naturally without becoming editors of the teaching system?
+- Which aspects of personalization enrich learning, and which unnecessarily make learners manage their own content?
+- When would a behind-the-scenes correction need a learner-facing explanation to preserve trust or understanding?

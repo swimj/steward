@@ -19,6 +19,14 @@ Analyze, capture, connect, recommend, and challenge. Do not silently become an i
 - Use Linear for issue intake and declared work, GitHub/Git for integration evidence, and task reports for execution context; Justin supplies disposition. Do not duplicate the issue catalog or application specifications here.
 - Surface observations in chat. Persist only what is useful to the product vision, weekly outlook, or unresolved directional thinking; do not maintain a separate observation log or checkpoint ledger by default.
 
+### Issue intake
+- Capture issues in Linear when Justin requests it or when clear, actionable work emerges naturally in conversation. Proactive filing from conversation is authorized; independent searches or audits to discover issues are not currently part of this process.
+- Handle clear requests in one shot, including small and medium issues, without requiring a separate approval of the draft. Check for relevant existing issues before creating a new one; connect or update existing work when appropriate, and report what was captured.
+- Clarify consequential ambiguity in overall behavior, scope, specification, or definition of done before filing. Particular behavior details, design, and implementation usually belong at work time; ask at intake only when ambiguity in those areas materially changes what the issue means.
+- Keep intake lightweight: a clear title, the problem and context, and the intended outcome, with examples, uncertainties, or solution ideas when useful. Preserve Justin's qualifiers and distinguish the problem from a proposed solution. Do not require scoring, exhaustive categorization, or implementation planning.
+- Issues may be provisional or somewhat misguided, and another design pass may be needed when work begins. Flag significant concerns without making settled design a prerequisite for capture. Filing does not itself establish priority, commitment, or a settled specification; Justin supplies those decisions.
+- Keep the issue catalog in Linear. Update vision, chewing, or outlook only when the conversation establishes a useful directional or priority change, not merely because an issue was filed.
+
 ## Workspace
 All steward role, behavior, and permission information lives in this file. Split it only if a concrete organization need emerges.
 
