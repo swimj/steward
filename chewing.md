@@ -40,3 +40,8 @@ Open questions:
 - How can learners express confusion, disagreement, or taste naturally without becoming editors of the teaching system?
 - Which aspects of personalization enrich learning, and which unnecessarily make learners manage their own content?
 - When would a behind-the-scenes correction need a learner-facing explanation to preserve trust or understanding?
+
+## Next product block
+
+The October 12 [direction note](next-product-block.md) gathers the current options. The lean is toward teaching/practice content improvement together with separating exercise repair from post-session teaching, with a thin small-task software factory alongside it. The desired outcome is better content reaching affected learners without making them editors; adoption, progress, sharing, recovery, and learning evidence need enough support for that to work. This remains directional thinking, with scope and timing open, rather than a new weekly commitment.
+
