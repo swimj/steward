@@ -45,3 +45,10 @@ Open questions:
 
 The October 12 [direction note](next-product-block.md) gathers the current options. The lean is toward teaching/practice content improvement together with separating exercise repair from post-session teaching, with a thin small-task software factory alongside it. The desired outcome is better content reaching affected learners without making them editors; adoption, progress, sharing, recovery, and learning evidence need enough support for that to work. This remains directional thinking, with scope and timing open, rather than a new weekly commitment.
 
+## Learner intake and a backlog of language needs
+
+Justin imagines an intake concept for each learner, similar to how we capture incoming ideas and needs for the app itself. A learner could drop in whatever language things they have been struggling with or are curious about: “this word trips me up,” or “I wanted to express this idea to someone today and couldn't get it across.” The agent would maintain a backlog of these needs and interests, then consult it when designing lessons or recommending study.
+
+This sits within a tentative longer-term expectation that the app probably develops some sort of universal chat interface, with a more agentic direction still loosely imagined. The useful experience is being able to bring everyday language friction and curiosity to the app with little ceremony, and have it inform later learning.
+
+This connects to the reflection questions above: learners could express what matters to them naturally, while the system handles turning that input into useful teaching. It is an idea to explore, not a committed interface, settled design, or current priority.
