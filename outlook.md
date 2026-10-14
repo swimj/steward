@@ -1,29 +1,26 @@
-# Week of October 5–11, 2026
+# Week of October 12–18, 2026
 
-## Make the existing product worth inviting people into
+## Make improved teaching and practice content reach the learners who need it
 
-This week's priority is the quality of the existing learner experience. Build confidence in that experience before adding new core capabilities.
+This week's sole focus is the content update and repair model. Improving content must lead to a better experience for learners who already encountered it, including teaching and Practice content.
 
-### 1. Coherent design improvement — complete
-Justin reports the new UI landed late October 4 and feels like a major improvement in actual study. The direction now supports incremental improvement; this focus item is wrapped.
+Settle who receives a correction, when they receive it, what progress carries forward, and how shared corrections differ from personal preferences. Ground the model in real disappointing content and use those cases to bound the adoption, sharing, and recovery support needed.
 
-Continue using the app and address concrete friction as it appears, without keeping the redesign open as an indefinite polish goal.
+**Done:** an agreed model and a bounded first delivery slice, grounded in real cases. If implementation fits this week, prove one correction reaching an already-affected learner during ordinary study, with history and progress intact.
 
-### 2. Prove a small content-quality improvement loop — supporting goal
-Use the content-feedback work in PR #288 to establish a practical way to improve content that is answerable but disappointing in quality.
+### Supporting validation — a thin slice of SWI-77
 
-**Done:** several concrete before/after improvements and a clear next step for handling similar content without waiting for a study mistake.
+Include observability and validation in the delivery slice: connect the original problem and exact revision to what the affected learner actually receives, then assess whether the original complaint persists. Significant features should come with a practical way to observe their behavior and validate their intended outcome.
 
-### 3. End the week with an invitation decision
-Assess the improved experience and decide whether to invite the next small group of test learners, accounting for basic support and recovery readiness.
+**Done for the model:** the slice specifies the evidence needed to verify adoption and assess the subsequent experience. **Done for a shipped slice:** demonstrate that evidence on a real correction, distinguishing successful delivery, perceived content improvement, and evidence of better learning. Immediate answer accuracy alone does not establish learning effectiveness.
 
-**Done:** a concrete next invitation step, or a short list of specific blockers that determines the next work. Avoid an indefinite “needs more polish.”
+Keep this bounded to the practical assessment in [SWI-77](https://linear.app/swimj/issue/SWI-77); a general experimentation platform is outside this week's scope.
 
-## Keep the week focused
+## Keep the focus bounded
 
-- Build on the delivered UI through actual study; review the experience on Friday.
-- Reconcile Linear and documentation only where needed to support this week's work.
-- Keep reflection compatibility architecture next in line; do not turn it into a parallel rebuild this week.
-- Defer new core functionality and broad repository reorganization.
+- Let one concrete teaching/Practice repair determine the necessary infrastructure.
+- Treat separating learner-facing teaching from background repair as a design constraint; completing that transition is not required this week.
+- Resume manual content improvements and the separate generation-improvement loop after the update/repair foundation is ready.
+- Keep other product initiatives outside this week's focus.
 
-**Reorientation question:** Does this work improve the learner experience we are preparing to invite people into, or resolve a concrete blocker to doing so?
+**Reorientation question:** Does this work help an affected learner receive better content, or provide the evidence needed to know that it worked?
