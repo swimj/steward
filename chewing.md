@@ -47,6 +47,8 @@ The October 12 [direction note](next-product-block.md) gathers the current optio
 
 ## Learner intake and a backlog of language needs
 
+The October 27 [personal-trainer product slice](personal-trainer-product-slice.md) develops this idea alongside guidance, progress, and discovery. It remains exploratory.
+
 Justin imagines an intake concept for each learner, similar to how we capture incoming ideas and needs for the app itself. A learner could drop in whatever language things they have been struggling with or are curious about: “this word trips me up,” or “I wanted to express this idea to someone today and couldn't get it across.” The agent would maintain a backlog of these needs and interests, then consult it when designing lessons or recommending study.
 
 This sits within a tentative longer-term expectation that the app probably develops some sort of universal chat interface, with a more agentic direction still loosely imagined. The useful experience is being able to bring everyday language friction and curiosity to the app with little ceremony, and have it inform later learning.
