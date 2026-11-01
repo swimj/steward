@@ -4,7 +4,7 @@ Learning serves the learner's life. The product should help people venture into 
 
 ## A familiar place to return to
 
-The experience should feel open. There is always room to ask, “What would you like to do?” The learner brings their own interests, experiences, and reasons for learning; the app welcomes that direction rather than confining them to an all-encompassing learning platform. They arrive intending to learn and can expect exercises and deliberate practice.
+The experience should feel open. There is always room to ask, “What would you like to do?” The learner brings their own interests, experiences, and reasons for learning; the app welcomes that direction rather than confining them to an all-encompassing learning platform. Their curiosity may lead to a quick answer in a chatbot they already use, without any intent to study. The product should complement those interactions, remembering useful learning points they bring for consideration in later teaching, while offering exercises and deliberate practice when they choose to learn. Remembering a point creates no obligation to study it.
 
 The app should make room for different ways of learning, both across learners and as the same person's needs and interests change over days, months, and years. For example, someone might want to get straight into a short practice routine without a conversation first, or to explore something they care about through Chinese.
 
