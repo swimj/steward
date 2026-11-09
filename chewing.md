@@ -52,3 +52,15 @@ Justin imagines an intake concept for each learner, similar to how we capture in
 This sits within a tentative longer-term expectation that the app probably develops some sort of universal chat interface, with a more agentic direction still loosely imagined. The useful experience is being able to bring everyday language friction and curiosity to the app with little ceremony, and have it inform later learning.
 
 This connects to the reflection questions above: learners could express what matters to them naturally, while the system handles turning that input into useful teaching. It is an idea to explore, not a committed interface, settled design, or current priority.
+
+A related rough thought: similar to word stashing, learners might stash topics or ideas they want to return to. They are studying both language and topics through that language. In particular, recognizing topics that are themselves part of Chinese culture might open up ways to personalize teaching around a learner's interests. This is a possibility to remember, with the form and teaching value still open.
+
+## Customization and progress that composes
+
+Custom words and senses are likely to become Justin's focus soon. Looking further ahead, his intuition is that doing customization well, together with clozes, could open a path to exercising production of larger chunks and phrases.
+
+One possibility is for the agent to notice that the units of a potentially useful larger expression have become strong, then bring them together in practice. Clozes could support an incremental progression by lengthening the gap the learner must fill. Larger gaps would allow a broader range of acceptable responses, perhaps calling for live evaluation of the naturalness of a fill-in rather than matching a particular phrase.
+
+Tracking would probably need to be less specific to individual phrases to avoid a combinatorial explosion. How to represent readiness and progress at that level remains open; this is a possible direction, not a selected tracking model or implementation plan.
+
+The learner-facing promise is a sense that progress can compose: things they have learned become ingredients for more expansive expression. That could offer something beyond an ever-growing collection of mastered cloze exercises. Clozes are still susceptible to the flashcard trap, even if progressively lengthening the gap gives them an incremental component. This is a longer-term possibility prompted by the approaching customization work, not an expansion of its immediate scope.
